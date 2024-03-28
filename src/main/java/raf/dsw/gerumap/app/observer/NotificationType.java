@@ -1,0 +1,5 @@
+package raf.dsw.gerumap.app.observer;
+
+public enum NotificationType {
+    ADD, DELETE, RENAME, SHOW, MESSAGE, ADDPOJAM, DELETEPOJAM, DODATAVEZA, OBRISANAVEZA, MENJANJESTILA, POMERANJE, SHOWMAP, SHOWVEZE
+}
